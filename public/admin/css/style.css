@@ -1,0 +1,113 @@
+.required{
+	color: red;
+}
+#please_fill{
+	color: red;
+}
+#required_name{
+	color: red;
+}
+#required_image{
+	color: red;
+}
+#required_price{
+	color: red;
+}
+#required_description{
+	color: red;
+}
+#required_meta_title{
+	color: red;
+}
+#required_meta_desc{
+	color: red;
+}
+#required_title{
+	color: red;
+}
+.label-success{
+	display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: #5cb85c;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.label-danger{
+	display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: #d9534f;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.label-warning{
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: #ffc107;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.label-default{
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    background-color: #342c2c;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+.control_map_group_details {
+   position: relative
+}
+.control_map_group_details .map_info {
+   height: 160px;
+}
+.control_map_group_details .g-control {
+   position: absolute;
+   right: 0;
+   top: 0;
+   width: 250px;
+   border: 1px solid hsla(0, 0%, 80%, .8);
+   padding: 15px 15px 5px
+}
+
+.control_map_group_details .g-control label {
+
+   min-width: 75px;
+   display: inline-block
+}
+
+.panel-index .control_map_group_details .map_info {
+   margin-right: 0
+}
+.panel-index .control_map_group_details .g-control {
+   display: none
+}
+.flex_check{
+  display: flex;
+}
+.check_css{
+  width: 35px ! important;
+  height: 21px! important;
+}
